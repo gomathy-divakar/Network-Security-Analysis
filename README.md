@@ -1,0 +1,2 @@
+# Network-Security-Analysis
+The most likely way for attackers to gain access to your infrastructure is through the network. Network security is the general practice of protecting computer networks and devices accessible to the network against malicious intent, misuse and denial. Live network data capture is the primary way to record network activity for online or offline analysis. Like a CCTV camera at a traffic intersection, packet analyzers intercept and record network traffic. Now let’s create a network attack classifier from scratch using machine learning.
